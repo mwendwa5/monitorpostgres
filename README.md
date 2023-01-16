@@ -1,4 +1,4 @@
-# monitorpostgres
+# Monitor multiple PostgreSQL databases
 Monitor PostgreSQL using python, with email and slack alerts!
 
 INSTALLATION
